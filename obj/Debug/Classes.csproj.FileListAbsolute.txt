@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\Classes\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\Classes\Classes\obj\Debug\Classes.pdb
